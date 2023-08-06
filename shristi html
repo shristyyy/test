@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESPONSIVE IMAGE GALLERY</title>
+    <link rel="stylesheet" href="responsive_image_gallery.css">
+</head>
+<body>
+    <div class="container">
+        <h2 class="title">Responsive photo gallery</h2>
+        <div class="photo-gallery">
+            <div class="column">
+                <div class="photo">
+                    <img src="https://shorturl.at/cyPR9"alt="">
+                </div>
+                <div class="photo">
+                    <img src="https://shorturl.at/vw046"alt="">
+                </div>
+                <div class="photo">
+                    <img src="" alt="">
+                </div>
+
+                </div>
+<div class="column">
+    <div class="photo">
+        <img src="https://shorturl.at/dmoBG"alt="">
+    </div>
+    <div class="photo">
+        <img src="https://shorturl.at/blyU9"alt="">
+    </div>
+    <div class="photo">
+        <img src="https://shorturl.at/blyU9"alt="">
+    </div>
+
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
