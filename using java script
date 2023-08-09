@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+      
+        function changeText(){
+            document.getElementById("demo").innerHTML="paragraph changed";
+        }
+        function untap()
+{
+    window.alert("HELLO THERE!!");
+}
+    </script>
+</head>
+<body>
+    <h2>Demo JavaScript</h2>
+    <p id="demo"> Initial paragraph</p>
+    <button type="button" onclick="changeText()">Click</button>
+
+    <button type="button" onclick="untap()">popup</button>
+      
+</body>
+</html>
